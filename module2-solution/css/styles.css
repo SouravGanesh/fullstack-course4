@@ -19,18 +19,21 @@ div {
 	float: right;
 	text-align: center;
 	border: 1px solid black;
+	font-weight: bold;
+	padding: 5px;
 }
 
 .section-title1 {
-	background-color: red;
+	background-color: pink;
 }
 
 .section-title2 {
-	background-color: yellow;
+	background-color: red;
+	color: white;
 }
 
 .section-title3 {
-	background-color: green;
+	background-color: yellow;
 }
 
 p {
