@@ -1,2 +1,2 @@
 # fullstack-course4
-cousera assignments
+coursera assignments
